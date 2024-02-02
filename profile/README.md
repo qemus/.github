@@ -7,5 +7,7 @@
 
 Collection of tools for [QEMU](https://github.com/qemu/qemu):
 
--  [QEMU Host](https://github.com/qemus/qemu-host) - Host for communicating with a QEMU Agent
--  [QEMU Docker](https://github.com/qemus/qemu-docker) - Docker container running QEMU with KVM support
+-  [Virtiso](https://github.com/qemus/virtiso) - Slim image of the Virtio drivers for Windows guests.
+-  [QEMU Host](https://github.com/qemus/qemu-host) - Host for communicating with a QEMU Agent.
+-  [QEMU Docker](https://github.com/qemus/qemu-docker) - Docker container for running x86 and x64 virtual machines.
+-  [QEMU ARM](https://github.com/qemus/qemu-arm) - Docker container for running arm64 virtual machines.
