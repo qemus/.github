@@ -10,6 +10,6 @@ Collection of tools for [QEMU](https://github.com/qemu/qemu):
 -  [QEMU Docker](https://github.com/qemus/qemu-docker) - Docker container for running x86 and x64 virtual machines.
 -  [QEMU ARM](https://github.com/qemus/qemu-arm) - Docker container for running arm64 virtual machines.
 -  [QEMU Host](https://github.com/qemus/qemu-host) - Host for communicating with a QEMU Agent.
--  [Virtiso](https://github.com/qemus/virtiso) - Slim image of the Virtio drivers for 64-bit Windows guests.
+-  [Virtiso x64](https://github.com/qemus/virtiso) - Slim image of the Virtio drivers for 64-bit Windows guests.
 -  [Virtiso x86](https://github.com/qemus/virtiso-x86) - Slim image of the Virtio drivers for 32-bit Windows guests.
--  [Virtiso ARM](https://github.com/qemus/virtiso-arm) - Slim image of the Virtio drivers for Windows ARM guests.
+-  [Virtiso ARM](https://github.com/qemus/virtiso-arm) - Slim image of the Virtio drivers for Windows ARM64 guests.
